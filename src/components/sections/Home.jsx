@@ -26,7 +26,9 @@ export const Home = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/1qtHO0Od32_HlcxJiyoPY_L66X5v_U2SX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1xUYdMu2reKLCjOYpPaaQOf05YsmtVCwK/view?usp=sharing"
+              rel="noopener noreferrer"
+              target="blank"
               className="border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-200 
              hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10"
             >

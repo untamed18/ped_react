@@ -17,8 +17,9 @@ export const Projects = () => {
               <h3 className="text-xl font-bold mb-2"> Responsive Job Site</h3>
               <p className="text-gray-400 mb-4">
                 Developed a scalable job portal using React and Node.js,
-                featuring real-time monitoring and automated scaling to
-                efficiently handle dynamic user demands.
+                incorporating real-time monitoring and automated scaling to
+                efficiently manage fluctuating user demand. The application was
+                deployed on Netlify for seamless access and performance.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["React", "Node.js", "Netlify"].map((tech, key) => (
@@ -36,6 +37,8 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://customreactjobs.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
@@ -85,6 +88,8 @@ export const Projects = () => {
               <div className="flex justify-between items-center">
                 <a
                   href="https://blog-app-62o2.vercel.app"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
